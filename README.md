@@ -61,7 +61,7 @@ Extractive summarizer for conversations and tool traces that tries to preserve o
 - Does **not require an LLM**
 - Extracts structured agent state alongside the summary
 - Supports optional external embedding models
-- Benchmark result: **97% fact recall at 14.32% compression**
+- Benchmark result: **77% fact recall at 9.8% compression**
 - Significantly outperforms centrality-only summarization on agent-oriented stress scenarios
 
 → **[Repository](https://github.com/mikhail0920/agent_context_summarizer)**
